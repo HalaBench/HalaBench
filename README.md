@@ -40,4 +40,4 @@ I'm a recent Master's graduate in Networks and Distributed Systems from Algeria,
 <a href="https://linkedin.com/in/hala-benchiheb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hala-benchiheb" height="30" width="40" /></a>
 </p>
 
-Let's create something awesome together! 😄
+ I'm always open to new opportunities and collaborations. Feel free to reach out! 😄
