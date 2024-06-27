@@ -15,11 +15,6 @@ I'm a recent Master's graduate in Networks and Distributed Systems from Algeria,
 - **Database:** MySQL
 - **Other:** Git, GitHub, AWS, Typescript, TailwindCSS
 
-## 🚀 My Projects
-
-*(Add your project titles and short descriptions with links here)*
-* **Project 1:** [Project Title]([Link to your project]) - Brief description
-* **Project 2:** [Project Title]([Link to your project]) - Brief description
 
 ## 🌱 I’m currently learning 
 - Advanced backend architectures and design patterns.
