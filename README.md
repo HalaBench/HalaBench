@@ -3,18 +3,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=halabench&label=Profile%20views&color=0e75b6&style=flat" alt="halabench" /> </p>
 
 ## ✨ About Me
-I'm a recent Master's graduate in Networks and Distributed Systems from Algeria, passionate about crafting user-friendly and scalable web applications.
+I'm a recent Master's graduate in Networks and Distributed Systems from Algeria, passionate about web development and eager to kickstart my career in tech.
 
 ## 💻 Tech Stack
 - **Front-end:** HTML, CSS, JavaScript, React
 - **Back-end:** Java, Spring Boot
 - **Database:** MySQL
-- **Other:** Git, GitHub, AWS, Typescript, TailwindCSS
+- **Styling:** Tailwind CSS
+- **Tools:** Git, GitHub
   
-## 🌱 I’m currently learning 
-- Advanced backend architectures and design patterns.
-- New frontend frameworks and libraries.
-- User experience (UX) design principles.
+## 🎯 Goals:
+
+- 💡 Collaborate with a passionate team to build innovative web applications.
+- 🌱 Continuously learn and grow as a developer.
+- 🤝 Contribute to meaningful projects that make a positive impact.
+
+## 🚀 Currently Exploring:
+
+- Deepening my understanding of backend technologies and architectures.
+- Expanding my frontend skills with new libraries and frameworks.
+- Learning more about UX/UI design principles.
 
   
 
