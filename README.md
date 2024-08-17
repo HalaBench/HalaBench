@@ -1,6 +1,6 @@
-<h1>Hi 👋, I'm Hala</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=halabench&label=Profile%20views&color=0e75b6&style=flat" alt="halabench" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=halabench&label=Profile%20views&color=0e75b6&style=flat" alt="halabench" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B;I+am+Hala!)](https://git.io/typing-svg)
 
 ## ✨ About Me
 I'm a recent Master's graduate in Networks and Distributed Systems from Algeria, passionate about web development and eager to kickstart my career in tech.
