@@ -10,7 +10,7 @@
 
 <p align="center">
   Frontend / Next.js developer from Algeria 🇩🇿  
-  I build clean, responsive UIs with <b>Next.js</b>, <b>React</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>, and connect them to real APIs (Supabase, Stripe, ChatGPT).
+  I build clean, responsive UIs with <b>Next.js</b>, <b>React</b>, <b>TypeScript</b> and <b>Tailwind CSS</b>, and connect them to APIs (Supabase, Stripe, ChatGPT).
 </p>
 
 <br />
