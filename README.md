@@ -77,9 +77,6 @@
 - **AI Flashcards + Stripe** – Next.js app to create AI-powered flashcards and handle payments.
 - **Pantry Tracker (TS)** – simple TypeScript-based pantry manager.
 - **Portfolio** – responsive personal website with modern UI.
-
-*(add your GitHub / Vercel links here)*
-
 <br />
 
 ## 📫 Let's Connect!
