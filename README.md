@@ -1,12 +1,19 @@
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=HalaBench&label=Profile%20views&color=0e75b6&style=flat" alt="HalaBench" />
-</p>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&pause=1000&lines=Hi+there+👋;I'm+Hala" alt="Typing SVG" />
-  </a>
-</h1>
+
+
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Hala&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Frontend%20Developer%20|%20Algeria&descAlignY=55&descAlign=50" alt="Header" width="100%"/>
+
+
+  <br/>
+
+
+
+  <br/>
+
+</div>
 
 <p align="center">
   Frontend / Next.js developer from Algeria 🇩🇿  
@@ -15,12 +22,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HalaBench&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="HalaBench's GitHub Stats" />
-  <img width="355px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalaBench&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top langs" />
-</div>
-
-<br />
 
 ## ⚡ Tech stack
 
